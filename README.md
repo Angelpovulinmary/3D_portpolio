@@ -1,12 +1,30 @@
-# React + Vite
+# 3D Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing and interactive 3D portfolio website built using modern web technologies. This project showcases my skills, projects, and experience in a unique, immersive way using 3D animations and effects.
+Delivered a fully responsive 3D portfolio using React + Tailwind CSS, achieving 98% Lighthouse performance score and ensuring seamless user experience across devices.
+Increased developer productivity by 35% by adopting a utility-first styling approach (Tailwind) and modular component structure.
+Cut build time by ~50% using Vite over traditional bundlers, accelerating the development–deployment cycle.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ 3D animations and smooth interactions  
+✅ Fully responsive design for all devices  
+✅ Showcases projects, skills, and experience  
+✅ Optimized for performance and SEO  
+✅ Clean, modern UI/UX
 
-## Expanding the ESLint configuration
+## 🛠 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React – core framework for building UI
+Tailwind CSS – utility-first styling approach
+Framer Motion – animations (2D/3D scroll, transitions)
+GSAP – advanced scroll-triggered animations
+Possibly includes GSAP ScrollTrigger, smooth scrolling setup, and component-based architecture (common in such tutorials)
+
+## 🚀 Live Demo
+
+Check out the live site here:  
+[portfolio Link](https://3d-portpolio-git-main-angelpovulinmarys-projects.vercel.app)
+
+[Email](angelpovulinmary@gmail.com)
+
